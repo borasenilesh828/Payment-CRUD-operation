@@ -2,7 +2,7 @@
 
 This project demonstrates CRUD (Create, Read, Update, Delete) operations using C# and SQL Server. It allows users to manage data efficiently by performing basic database operations such as adding new records, retrieving and displaying data, updating existing entries, and deleting records. The application is built using .NET technologies and follows best practices for database interaction.
 
-#Features
+# Features
 
 =>Create – Add new records to the database.
 
@@ -12,7 +12,7 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations using C
 
 =>Delete – Remove records from the database.
 
-#Technologies Used
+# Technologies Used
 
 C# (.NET Framework / .NET Core)
 
@@ -22,7 +22,7 @@ Entity Framework / ADO.NET
 
 ASP.NET MVC / Web API (if applicable)
 
-#Installation and Setup
+# Installation and Setup
 
 =>Prerequisites
 
@@ -32,7 +32,7 @@ ASP.NET MVC / Web API (if applicable)
 
 =>Install Visual Studio with C# support
 
-#Steps to Run the Project
+# Steps to Run the Project
 
 Clone the Repository
 
@@ -54,7 +54,7 @@ Build and Run the Application
 
 Press Ctrl + F5 in Visual Studio to start the project.
 
-#Usage
+# Usage
 
 Navigate to the homepage and use the UI to perform CRUD operations.
 
@@ -69,3 +69,4 @@ Delete records using the Delete button.
 #License
 
 This project is open-source and available under the MIT License.
+# Copyright By @Nilesh Borase.
